@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # GIMNOFANGE HEALTH CLUB
 
 ![GIMNOFANGE Preview](assets/img/preview.gif)
@@ -124,4 +124,4 @@ This project is under the MIT license. See the [LICENSE](LICENSE) file for detai
 =======
 # gimnofange
 GIMNOFANGE HEALTH CLUB - Modern fitness center website
->>>>>>> a79cd6da6105730f44a9b975c42f1276dbce9de9
+
